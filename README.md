@@ -1,2 +1,4 @@
 # leitor-de-arquivos-indice-invertido
 Leitor de arquivos que utiliza algoritmo de índice invertido. O sistema é capaz de registrar quantidade de repetições de uma palavra em vários arquivos, a fim de identificar qual documento (.txt) está mais próximo da busca feita.
+
+O arquivo foi produzido em Python para a atividade do módulo integrador de Algoritmos e Programação I da Universidade Estadual e Feira de Santana. O principal desafio, que foi cumprido, foi criar um programa que recebesse uma quantidade n de dados de uma instituição hospitalar e pudesse contabilizar todas as palavras desses arquivos e quantidade que elas se repetiam, com exceção das "palavras lixo". Com isso, quando o usuário for utilizar o sistema, em linha de comando, pode cria o arquivo de índice invertido, buscar uma palavra com o retorno do arquivo em que a mesma mais se repete, alterar os arquivos de diretórios e deletar do diretório e do índice. 
